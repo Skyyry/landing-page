@@ -1,0 +1,19 @@
+.container {
+    padding: 0px 300px;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-links {
+    display: flex;
+  list-style-type: none;
+  gap: 10px;
+}
+
+a {
+    text-decoration: none;
+}
