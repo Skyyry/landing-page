@@ -1,10 +1,6 @@
-* {
-    box-sizing: border-box;
-}
-
 body {
     margin: 0;
-    font-family: "Arial", "Times New Roman";
+    font-family: "Roboto", "Arial", "Times New Roman";
 }
 
 .bg1 {
@@ -23,7 +19,7 @@ body {
 .header-links {
   display: flex;
   list-style-type: none;
-  gap: 10px;
+  gap: 20px;
   font-size: 18px;
   text-decoration: none;
 }
@@ -88,7 +84,6 @@ img {
     padding-bottom: 100px;
 }
 
-
 .img4 {
     width: 175px;
     height: 175px;
@@ -100,6 +95,7 @@ img {
     text-align: center;
     padding: 10px;
     color: #1F2937;
+    width: 175px;
 }
 
 .quotecontainer {
