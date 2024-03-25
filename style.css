@@ -172,3 +172,14 @@ img {
 .right {
     display: flex;
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 40px 0px;
+}
+
+.footertext {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
