@@ -6,10 +6,6 @@ body {
     background-color: #1F2937;
 }
 
-.bg2 {
-    background-color: white;
-}
-
 
 .header-logo {
     display: flex;
@@ -55,9 +51,10 @@ a {
 
 .herobutton {
     background-color: #3882F6;
-    padding: 10px 20px;
+    padding: 10px 30px;
     border-radius: 10px;
     border-style: hidden;
+    font-weight: bold;
 }
 
 img {
@@ -75,6 +72,7 @@ img {
     color: #1F2937;
     text-align: center;
     padding: 20px;
+    background-color: white;
 }
 
 .headercontainer {
@@ -82,6 +80,7 @@ img {
     justify-content: center;
     gap: 50px;
     padding: 20px;
+    background-color: white;
 }
 
 
@@ -95,4 +94,5 @@ img {
 .infopic {
     text-align: center;
     padding: 10px;
+    color: #1F2937;
 }
