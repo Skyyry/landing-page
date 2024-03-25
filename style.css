@@ -35,6 +35,10 @@ a {
     padding: 75px 300px;
 }
 
+.upc-text {
+    padding: 20px;
+}
+
 .heromaintext {
     color: #F9FAF8;
     font-size: 48px;
